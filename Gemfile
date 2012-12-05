@@ -1,8 +1,4 @@
-# A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'sequel'
-gem 'sqlite3'
-
-gem 'sinatra'
-
+# Specify your gem's dependencies in shorten.gemspec
+gemspec
